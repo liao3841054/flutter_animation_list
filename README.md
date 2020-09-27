@@ -2,7 +2,7 @@
 
 flutter 动画演示, Fade,Zoom,Bounce,Pulse,Spin,Roulette,Slide
 
-![RPReplay_Final1601277886-min](../flutter_animations/RPReplay_Final1601277886-min.gif)
+![https://github.com/liao3841054/flutter_animation_list/blob/master/RPReplay_Final1601277886-min.gif](https://github.com/liao3841054/flutter_animation_list/blob/master/RPReplay_Final1601277886-min.gif)
 
 ## Getting Started
 
